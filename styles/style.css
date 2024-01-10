@@ -132,7 +132,7 @@ border-radius: 100px;
     max-width: 1160px;
     margin: 20px auto;  
    text-align: center;
-   display: grid;
+
 }
 
 .web-container .web-java{
@@ -155,7 +155,7 @@ border-radius: 100px;
     margin-bottom: 5px;
 }
 .web-java{
-    display: grid;
+    
 }
 .web-java .development p{
     color: var(--Dark-03, #737272);
@@ -287,3 +287,6 @@ margin-bottom: 5px;
     padding: 10px;
 }
 
+@media screen  {
+    
+}
